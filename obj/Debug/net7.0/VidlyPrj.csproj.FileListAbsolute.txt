@@ -1,0 +1,8 @@
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.AssemblyInfo.cs
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.RazorAssemblyInfo.cache
+C:\Users\owner\Desktop\VidlyPrj\obj\Debug\net7.0\VidlyPrj.RazorAssemblyInfo.cs
